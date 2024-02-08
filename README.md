@@ -1,0 +1,2 @@
+# langchain-tutorial
+LangChainをベースにOpenAIのAPIなどを使用してチャットシステム構築などを実践しながら学ぶ
